@@ -1,0 +1,11 @@
+# Employee data
+102,John Doe
+101,Jane Smith
+101,Jane abc
+# This is a comment line and should be ignored
+103,Emily Davis
+104,Michael Brown
+101,Alice Johnson
+102,Bob Lee
+# Another comment
+105,Chris Wilson
